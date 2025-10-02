@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🙋 Introducing Myself
 
-<!--
-**Akhilesh1118/Akhilesh1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img width="1436" height="431" alt="image" src="https://github.com/user-attachments/assets/cef93472-7456-4fc3-92ec-ea65f6544dab" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+
+- Querying data using SQL.
+- Generate reports and perform data analysis using SQL.
+- Developing dashboards on Tableau and Power BI .
+- Data analysis and reporting using Google Sheets and Excel.
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Power BI 
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/akhilesh118/)
