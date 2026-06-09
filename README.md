@@ -1,4 +1,4 @@
-# Hi, I'm Akhilesh Yadav 👋
+## Hi, I'm Akhilesh Yadav 👋
 
 <img width="1436" height="431" alt="Banner" src="https://github.com/user-attachments/assets/cef93472-7456-4fc3-92ec-ea65f6544dab" />
 
