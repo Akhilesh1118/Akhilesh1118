@@ -1,22 +1,30 @@
-## 🙋 Introducing Myself
+# Hi, I'm Akhilesh Yadav 👋
 
- <img width="1436" height="431" alt="image" src="https://github.com/user-attachments/assets/cef93472-7456-4fc3-92ec-ea65f6544dab" />
+<img width="1436" height="431" alt="Banner" src="https://github.com/user-attachments/assets/cef93472-7456-4fc3-92ec-ea65f6544dab" />
 
+## 📊 About Me
 
-Hello, I'm Akhilesh Yadav . Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+Aspiring Data Analyst focused on SQL, Python, Power BI, Excel, and data visualization.  
+I enjoy transforming raw data into meaningful insights through analysis, reporting, and dashboard creation.
 
-- Querying data using SQL.
-- Generate reports and perform data analysis using SQL.
-- Developing dashboards on Tableau and Power BI .
-- Data analysis and reporting using Google Sheets and Excel.
+## 🛠️ Tech Stack
 
-### 🛠️ Tools
+**Languages:** SQL, Python  
+**Databases:** MySQL, PostgreSQL, Google BigQuery  
+**Visualization:** Power BI, Tableau, Excel
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Power BI 
+## 🚀 Portfolio & Contact
 
-### 👋🏻 Connect with Me
+🌐 [Portfolio Website](https://akhilesh-yadav-portfolio-website.netlify.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/akhilesh118/)
 
-- [Linkedin](https://www.linkedin.com/in/akhilesh118/) 
-- [Portfolio](https://akhilesh-yadav-portfolio-website.netlify.app/)
+## 📈 Currently Working On
+
+- SQL and Python practice
+- Power BI dashboards
+- Data analytics projects
+- Business reporting and visualization
+
+## 💡 Motto
+
+> Turning data into insights, driving better decisions.
