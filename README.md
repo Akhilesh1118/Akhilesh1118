@@ -18,5 +18,5 @@ Hello, I'm Akhilesh Yadav . Data Analyst with expertise in data analysis and rep
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/akhilesh118/) | 
+- [Linkedin](https://www.linkedin.com/in/akhilesh118/) 
 - [Portfolio](https://akhilesh-yadav-portfolio-website.netlify.app/)
