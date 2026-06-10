@@ -15,7 +15,7 @@ I enjoy transforming raw data into meaningful insights through analysis, reporti
 
 ## 🚀 Portfolio & Contact
 
-🌐 [Portfolio Website](https://akhilesh-yadav-portfolio-website.netlify.app/)  
+🌐 [Portfolio Website](https://akhilesh-yadav-portfolio-website.netlify.app/#about)  
 💼 [LinkedIn](https://www.linkedin.com/in/akhilesh118/#about)
 
 ## 📈 Currently Working On
